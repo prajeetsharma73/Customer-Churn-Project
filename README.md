@@ -83,11 +83,6 @@ PATH troubleshooting).
 └── images/                       # dashboard screenshots
 ```
 
-## Limitations and next steps
-- Results come from a single train/test split. Cross-validation and a logistic regression baseline would make the comparison more reliable.
-- The default 0.5 decision threshold was used. Tuning it to the cost of a missed churner versus a wasted retention offer would add business value.
-- The retention offers in the Power BI report (discount, free support, credit) are illustrative assumptions, not values derived from the data.
-
 ## Author
 **Prajeet Sharma**
 LinkedIn: https://www.linkedin.com/in/prajeet-sharma/ | GitHub: https://github.com/prajeetsharma73/
