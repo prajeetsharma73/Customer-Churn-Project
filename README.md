@@ -4,7 +4,7 @@ A Streamlit web app that predicts whether a telecom customer is likely to
 churn, using a Random Forest model trained on the
 [Telco Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
 
-**🔗 Live demo:** _add your streamlit.app link here after deploying_
+**🔗 Live demo:** https://prajeet-sharma-customer-churn-project.streamlit.app/
 
 ## What it does
 Enter a customer's details (contract type, tenure, monthly charges, services
