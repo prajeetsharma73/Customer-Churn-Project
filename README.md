@@ -11,13 +11,13 @@ plus a Power BI report that quantifies the revenue at stake.
 ## Screenshots
 
 **Churn Overview**
-![Churn Overview](Images/churn%20overview.png)
+![Churn Overview](Images/churn%20overview.PNG)
 
 **Behavioral Analysis**
-![Behavioral Analysis](Images/behavioral%20analysis.png)
+![Behavioral Analysis](Images/behavioral%20analysis.PNG)
 
 **Operational Retention Action Center**
-![Operational Retention Action Center](Images/at-risk%20action%20centre.png)
+![Operational Retention Action Center](Images/at-risk%20action%20centre.PNG)
 
 ## What it does
 Enter a customer's details (contract type, tenure, monthly charges, services
